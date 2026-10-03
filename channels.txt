@@ -1,0 +1,2 @@
+# Mỗi dòng một kênh (URL, @handle hoặc channel ID)
+https://www.youtube.com/@chrisfix
